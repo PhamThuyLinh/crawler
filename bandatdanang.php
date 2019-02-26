@@ -2,6 +2,7 @@
 require "dbCon.php";
 require "simple_html_dom.php";
 $html = file_get_html("http://homedy.com/ban-dat-da-nang");
+echo $html;
 
 $tins = $html->find("div.wrapper div.product div.container div.box-content div.col-sm-8 div.content div.tab-content div.item div.info");
 
@@ -31,8 +32,8 @@ foreach($hinhs as $t){
 
 	/*$i = $t->find("a",0);
 	$im = $i->find("img",0);*/
-	$img = $t->src;
-	echo "<img src='$img' />";
+	// $img = $t->src;
+	// echo "<img src='$img' />";
 
 
 	//echo "<hr />";
