@@ -38,16 +38,16 @@ foreach($hinhs as $t){
 
 	//echo "<hr />";
 }
+ 
 
 
-
-//https://homedy.com/ban-dat-da-nang
+//https://homedy.com/ban-dat-da-nang-l15-c31	X
 //https://cafeland.vn/du-an/khu-do-thi-lakeside-palace-1786.html
 //https://nhatphongland.com/tag/dat-nen
-//https://ancu.me/mua-ban-dat-nen-thanh-pho-da-nang
+//https://ancu.me/mua-ban-dat-nen-thanh-pho-da-nang		X
 //https://kenhbds.vn/can-ban
-//https://muaban.net/ban-dat-da-nang-l15-c31
-//http://batdongsanvenbiendanang.com/bat-dong-san-ven-bien-da-nang-ptd/danh-sach-cac-lo-dat-bien-ven-bien-da-nang/?gclid=Cj0KCQiAm5viBRD4ARIsADGUT25mwBfgFZOI2nk2XgsM-CLfUf0FDcsUQa0VozsspumrYBQF6gaX6_AaAkdrEALw_wcB
+//https://muaban.net/ban-dat-da-nang-l15-c31		X
+//http://batdongsanvenbiendanang.com/bat-dong-san-ven-bien-da-nang-ptd/danh-sach-cac-lo-dat-bien-ven-bien-da-nang/?gclid=Cj0KCQiAm5viBRD4ARIsADGUT25mwBfgFZOI2nk2XgsM-CLfUf0FDcsUQa0VozsspumrYBQF6gaX6_AaAkdrEALw_wcB		X
 //muabannhadat.vn
 ?>
 

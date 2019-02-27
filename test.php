@@ -1,7 +1,7 @@
 <?php 
 require "dbCon.php";
 require "simple_html_dom.php";
-$html = file_get_html("http://kenhbds.vn/cho-thue/dat-nha-xuong-kho-bai-l35/da-nang-t15");
+$html = file_get_html("http://kenhbds.vn/cho-thue/dat-nen-dat-tho-cu-l7/da-nang-t15");
 
 $tins = $html->find(" div.tt_dong1 div.content_tooltip span.span_ngay");
 
