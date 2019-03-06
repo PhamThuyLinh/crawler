@@ -5,6 +5,8 @@ require "simple_html_dom.php";
 $html = file_get_html("https://kenhbds.vn/can-ban/dat-nen-dat-tho-cu-l7/da-nang-t15");
 
 $tins = $html->find("div.contai div.container div.left_cont div.center div.box1 div.tt_dong1");
+print_r($tins);
+die();
 
 echo count($tins);
 echo "<br />";

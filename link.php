@@ -2,7 +2,7 @@
 require "dbCon.php";
 require "simple_html_dom.php";
 
-$html = file_get_html("http://batdongsanvenbiendanang.com/bat-dong-san-ven-bien-da-nang-ptd/danh-sach-cac-lo-dat-bien-ven-bien-da-nang/?gclid=Cj0KCQiAm5viBRD4ARIsADGUT25mwBfgFZOI2nk2XgsM-CLfUf0FDcsUQa0VozsspumrYBQF6gaX6_AaAkdrEALw_wcB");
+$html = file_get_html("https://kenhbds.vn/thong-tin/tin-tuc-su-kien");
 echo $html;
 
 // foreach ($tins as $t) {
@@ -27,3 +27,5 @@ echo $html;
 // 	}
 // }
 ?>
+
+<!-- https://kenhbds.vn/thong-tin/tin-tuc-su-kien -->
